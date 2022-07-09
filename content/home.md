@@ -1,6 +1,7 @@
 ---
 title: Awesome Felines Are Here!
 date: 2019-03-17T19:31:20.591Z
+something: well this is something
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Maru (まる)
@@ -13,6 +14,6 @@ cats:
   - name: Squid
     description: "Tuxedo cat. "
 ---
-Welcome to my awesome page about cats of the internet.
+Welcome to my awesome page about cats of the internet. This page is built with NextJS, and content is managed in Netlify CMS.
 
-This page is built with NextJS, and content is managed in Netlify CMS
+But what else can it do? 

@@ -12,7 +12,6 @@ export default class Home extends Component {
         </Head>
         <article>
           <h1>{title}</h1>
-          <h2>{publish_date}</h2>
           <HomeContent />
           <ul>
             {cats.map((cat, k) => (

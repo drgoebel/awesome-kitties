@@ -10,6 +10,8 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - name: Koko
     description: Tortoise shell kitty!
+  - name: Squid
+    description: "Tuxedo cat. "
 ---
 Welcome to my awesome page about cats of the internet.
 
